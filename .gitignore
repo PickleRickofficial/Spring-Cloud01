@@ -1,0 +1,4 @@
+# Project exclude paths
+/Cloud01-Erueka-Consumer/target/
+/Cloud01-Erueka-Provider/target/
+/Cloud01-Eureka-Server/target/
